@@ -1,0 +1,9 @@
+C:\FICC\LMA\bin\Debug\Net.Kniaz.LMA.dll
+C:\FICC\LMA\bin\Debug\Net.Kniaz.LMA.pdb
+C:\FICC\LMA\bin\Debug\Net.Kniaz.LMA.tlb
+C:\FICC\LMA\bin\Debug\GeneralMatrix.dll
+C:\FICC\LMA\bin\Debug\nunit.framework.dll
+C:\FICC\LMA\bin\Debug\GeneralMatrix.pdb
+C:\FICC\LMA\obj\Debug\Net.Kniaz.LMA.csprojResolveAssemblyReference.cache
+C:\FICC\LMA\obj\Debug\Net.Kniaz.LMA.dll
+C:\FICC\LMA\obj\Debug\Net.Kniaz.LMA.pdb
